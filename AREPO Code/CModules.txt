@@ -1,0 +1,65 @@
+xbitmaps                       X bitmaps - Bitmaps that are shared between X applications
+hdf5                           HDF5 - Hierarchical Data Format 5 (HDF5)
+gsl                            GSL - GNU Scientific Library
+mpi-cxx                        Open MPI - Portable high-performance MPI implementation
+libmlx4                        libmlx4 - RDMA Core Userspace Library
+libcrypto                      OpenSSL-libcrypto - OpenSSL cryptography library
+openssl                        OpenSSL - Secure Sockets Layer and cryptography libraries and tools
+libevent_extra                 libevent_extra - libevent_extra
+libevent_openssl               libevent_openssl - libevent_openssl adds openssl-based TLS support to libevent
+mpi                            Open MPI - Portable high-performance MPI implementation
+libefa                         libefa - RDMA Core Userspace Library
+libevent                       libevent - libevent is an asynchronous notification event loop library
+fontutil                       FontUtil - Font utilities dirs
+libmlx5                        libmlx5 - RDMA Core Userspace Library
+gmp                            GNU MP - GNU Multiple Precision Arithmetic Library
+bash-completion                bash-completion - programmable completion for the bash shell
+ompi-c                         Open MPI - Portable high-performance MPI implementation
+gci-1                          libgcalc - GNOME Calculator Libray GTK Interface
+xkbcomp                        xkbcomp - XKB keymap compiler
+mpich                          mpich - High Performance and portable MPI
+udev                           udev - udev
+orte                           Open MPI Run-Time Environment (ORTE) - Open MPI's run-time environment functionality
+python3                        Python - Build a C extension for Python
+libibverbs                     libibverbs - RDMA Core Userspace Library
+yelp-xsl                       yelp-xsl - Yelp XSLT Stylesheets
+gcalc-2                        libgcalc - GNOME Calculator Libray
+mpi-fort                       Open MPI - Portable high-performance MPI implementation
+xorg-wacom                     xorg-wacom - X.Org Wacom Tablet driver.
+iso-codes                      iso-codes - ISO country, language, script and currency codes and translations
+mpich-fort                     mpich - High Performance and portable MPI
+libnl-3.0                      libnl - Convenience library for netlink sockets
+grilo-plugins-0.3              Grilo Framework Plugins - Plugins for the Grilo Framework
+python-3.8                     Python - Build a C extension for Python
+mpi-c                          Open MPI - Portable high-performance MPI implementation
+python3-embed                  Python - Embed Python into an application
+libjpeg                        libjpeg - A SIMD-accelerated JPEG codec that provides the libjpeg API
+hdf5-serial                    HDF5 - Hierarchical Data Format 5 (HDF5)
+libevent_core                  libevent_core - libevent_core
+libxcrypt                      libxcrypt - Extended crypt library for DES, MD5, Blowfish and others
+expat                          expat - expat XML parser
+adwaita-icon-theme             gnome-icon-theme - A collection of icons used as the basis for GNOME themes
+ompi-cxx                       Open MPI - Portable high-performance MPI implementation
+gmpxx                          GNU MP C++ - GNU Multiple Precision Arithmetic Library (C++ bindings)
+ompi                           Open MPI - Portable high-performance MPI implementation
+libcrypt                       libxcrypt - Extended crypt library for DES, MD5, Blowfish and others
+geoclue-2.0                    Geoclue - The Geoinformation Service
+systemd                        systemd - systemd System and Service Manager
+python-3.8-embed               Python - Embed Python into an application
+poppler-data                   poppler-data - Encoding files for use with poppler
+libevent_pthreads              libevent_pthreads - libevent_pthreads adds pthreads-based threading support to libevent
+libelf                         libelf - elfutils libelf library to read and write ELF files
+xkeyboard-config               XKeyboardConfig - X Keyboard configuration data
+caf-openmpi                    CAF - Co-Array Fortran support
+mpich-c                        mpich - High Performance and portable MPI
+libssl                         OpenSSL-libssl - Secure Sockets Layer and cryptography libraries
+ompi-fort                      Open MPI - Portable high-performance MPI implementation
+libfl                          libfl - Flex (the fast lexical analyzer) support library
+mpich-cxx                      mpich - High Performance and portable MPI
+libnl-route-3.0                libnl-route - Netlink Routing Family Library
+zlib                           zlib - zlib compression library
+hwloc                          hwloc - Hardware locality detection and management library
+mobile-broadband-provider-info mobile-broadband-provider-info - Mobile Broadband Service Provider Information Database
+fftw3                          FFTW - fast Fourier transform library
+ibus-table                     IBus-Table - Table Based Input Method Framework for Intelligent Input Bus for Linux / Unix OS
+shared-mime-info               shared-mime-info - Freedesktop common MIME database
