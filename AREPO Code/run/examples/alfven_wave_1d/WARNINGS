@@ -1,0 +1,1 @@
+WARNING: Code warning on task=0, function init(), file src/init/init.c, line 183: Initial y or z velocity nonzero in 1d simulation! Make sure you really want this!
