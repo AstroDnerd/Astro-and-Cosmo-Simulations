@@ -30,11 +30,11 @@ Other than the regular AREPO master code (documentation found [here]), the folde
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
   [Arepo]: <https://arepo-code.org/>
-  [/Resources/Report]: <https://github.com/AstroDnerd/Astro-and-Cosmo-Simulations/tree/master/AREPO%20Code/Resources/Report>
-  [/AREPO/get-pip.py]: <https://github.com/AstroDnerd/Astro-and-Cosmo-Simulations/blob/master/AREPO%20Code/AREPO/get-pip.py>
-  [/AREPO/stacker.py]: <https://github.com/AstroDnerd/Astro-and-Cosmo-Simulations/blob/master/AREPO%20Code/AREPO/stacker.py>
-  [/AREPO/test_run_plots]: <https://github.com/AstroDnerd/Astro-and-Cosmo-Simulations/tree/master/AREPO%20Code/AREPO/test_run_plots>
- [/AREPO/libraries]: <https://github.com/AstroDnerd/Astro-and-Cosmo-Simulations/tree/master/AREPO%20Code/AREPO/libraries>
+  [/Resources/Report]: <https://github.com/AstroDnerd/Astro-and-Cosmo-Simulations/tree/master/AREPO_Code/Resources/Report>
+  [/AREPO/get-pip.py]: <https://github.com/AstroDnerd/Astro-and-Cosmo-Simulations/blob/master/AREPO_Code/AREPO/get-pip.py>
+  [/AREPO/stacker.py]: <https://github.com/AstroDnerd/Astro-and-Cosmo-Simulations/blob/master/AREPO_Code/AREPO/stacker.py>
+  [/AREPO/test_run_plots]: <https://github.com/AstroDnerd/Astro-and-Cosmo-Simulations/tree/master/AREPO_Code/AREPO/test_run_plots>
+ [/AREPO/libraries]: <https://github.com/AstroDnerd/Astro-and-Cosmo-Simulations/tree/master/AREPO_Code/AREPO/libraries>
  [here]: <https://arepo-code.org/wp-content/userguide/index.html>
- [/AREPO/libraries/arepo-master]: <https://github.com/AstroDnerd/Astro-and-Cosmo-Simulations/tree/master/AREPO%20Code/AREPO/libraries/arepo-master>
- [run_example.sh]: <https://github.com/AstroDnerd/Astro-and-Cosmo-Simulations/blob/master/AREPO%20Code/AREPO/libraries/arepo-master/run_example.sh>
+ [/AREPO/libraries/arepo-master]: <https://github.com/AstroDnerd/Astro-and-Cosmo-Simulations/tree/master/AREPO_Code/AREPO/libraries/arepo-master>
+ [run_example.sh]: <https://github.com/AstroDnerd/Astro-and-Cosmo-Simulations/blob/master/AREPO_Code/AREPO/libraries/arepo-master/run_example.sh>
