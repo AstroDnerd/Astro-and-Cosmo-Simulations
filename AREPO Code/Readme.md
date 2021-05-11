@@ -21,9 +21,9 @@ python3 stacker.py example_name figure_name
 ```
 figure_name supports regex. Make sure you change the path in the .py file itself based on your AREPO installation.
 [/AREPO/test_run_plots] is the folder where the GIFs are stored.
-[/AREPO/libraries] is the folder containing AREPO master code, fftw-3.3.9, gsl-2.6, hdf5-1.12.0, hwloc-2.4.0, openmpi-4.1.0-1, both in compressed as well as installed format.
+[/AREPO/libraries] is the folder containing AREPO master code, fftw-3.3.9, gsl-2.6, hdf5-1.12.0, hwloc-2.4.0, openmpi-4.1.0-1, both in compressed as well as installed format. For openmpi refer to [this link].
 
-Other than the regular AREPO master code (documentation found [here]), the folder [/AREPO/libraries/arepo-master] contains a [run_example.sh], which will take in a name of an example_folder_name (can add custom ones as well) as the first command line arguement and do the complete run and check and store in run folder.
+Other than the regular AREPO master code (documentation found [here]), the folder [/AREPO/libraries/arepo-master] contains a [run_example.sh], which will take in a name of an example_folder_name (can add custom ones as well) as the first command line arguement and the number of MPI ranks as second arguement and do the complete run and check and store in run folder. For check.py, you may need to install some latex tools for output plots.
 
 
 
@@ -38,3 +38,4 @@ Other than the regular AREPO master code (documentation found [here]), the folde
  [here]: <https://arepo-code.org/wp-content/userguide/index.html>
  [/AREPO/libraries/arepo-master]: <https://github.com/AstroDnerd/Astro-and-Cosmo-Simulations/tree/master/AREPO%20Code/AREPO/libraries/arepo-master>
  [run_example.sh]: <https://github.com/AstroDnerd/Astro-and-Cosmo-Simulations/blob/master/AREPO%20Code/AREPO/libraries/arepo-master/run_example.sh>
+ [this link]: <https://edu.itp.phys.ethz.ch/hs12/programming_techniques/openmpi.pdf>
