@@ -4,6 +4,8 @@ AREPO Code contains all the work I have done with AREPO, including the theory be
 
 GToR contains material from the [GToR course] on Coursera by Emil Akhmedov and my solutions for the various assignements asked in the course.
 
+Illustris work contains the work I did on Illustris 3 data under supervision of Dr. Annalisa Pillepich and the reports I wrote.
+
 North American Einstein Toolkit Workshop contains various codes I wrote during the NAET workshop held in August 2020.
 
 Simulation and Modelling of Natural Processes contins the material as well as the various codes I wrote while attending the [course] with the same name on Coursera.
