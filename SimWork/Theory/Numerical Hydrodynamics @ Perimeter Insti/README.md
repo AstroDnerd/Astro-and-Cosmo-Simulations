@@ -1,6 +1,6 @@
 # Numerical Hydrodynamics at Perimeter Institute
 
-Unoffically took the online course on Numerical Hydrodynamics offered by Daniel Siegel.
+Unoffically took the online course on Numerical Hydrodynamics offered by [Daniel Siegel].
 
 The course covered topics on:
 1. Basic Notions of Partial Differential Equations
